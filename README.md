@@ -1,7 +1,7 @@
 # Hello! My name is Park Nayeon.
 
 
-### 💻 I learned these languages in college.
+### 💻I learned these languages in college.💻
 
 <p align="center">
   <img alt="py" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
@@ -16,4 +16,10 @@
   <img alt="arduinco" src ="https://img.shields.io/badge/Arduinco-00979D.svg?&style=for-the-badge&logo=Arduinco&logoColor=white"/>
   <img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="spring" src ="https://img.shields.io/badge/Spring_Framework-6DB33F.svg?&style=for-the-badge&logo=Spring_Framework&logoColor=white"/>
+</p>
+
+### 🌹My daliy life🌹
+<p align="center">
+   <a href="https://www.instagram.com/nsy_0126/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat
+     square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p>
