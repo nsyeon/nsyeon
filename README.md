@@ -1,6 +1,7 @@
 # Hello! My name is Park Nayeon.
 
 
+
 ### 💻I learned these languages in college.💻
 
 <p align="center">
@@ -17,6 +18,7 @@
   <img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
   <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 </p>
+
 
 ### 🌹My daliy life🌹
 <a href="https://www.instagram.com/ns_y_0126/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ns_y_0126/"/></a>
