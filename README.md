@@ -15,7 +15,7 @@
   <img alt="android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
   <img alt="arduino" src ="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-  <img alt="spring" src ="https://img.shields.io/badge/Spring_Framework-6DB33F.svg?&style=for-the-badge&logo=Spring_Framework&logoColor=white"/>
+  <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 </p>
 
 ### 🌹My daliy life🌹
