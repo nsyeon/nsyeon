@@ -1,7 +1,7 @@
-### Hello! My name is Park Nayeon.
+# Hello! My name is Park Nayeon.
 
 
-### I learned these languages in college.
+### 💻 I learned these languages in college.
 
 <img alt="py" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
