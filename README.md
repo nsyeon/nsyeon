@@ -1,6 +1,6 @@
 # Hello! My name is Park Nayeon.
 
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsyeon" alt="nsyeon" /></p>
 
 ### 💻I learned these languages in college.💻
 
