@@ -1,4 +1,4 @@
-# Hello! My name is Park .
+# Hello! My name is Park Soyeong.
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nsyeon&show_icons=true&theme=dark" alt="nsyeon"/></p>
 
