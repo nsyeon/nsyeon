@@ -30,5 +30,5 @@
 
 ### <p align="center">🌹My daliy life🌹</p>
 <p align="center">
-<a href="https://www.instagram.com/soyeong__3.z.8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white&link=https://www.instagram.com/soyeong__3.z.8/"/></a>
+<a href="https://www.instagram.com/soyeong__1.z6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat square&logo=Instagram&logoColor=white&link=https://www.instagram.com/soyeong__3.z.8/"/></a>
 </p>
